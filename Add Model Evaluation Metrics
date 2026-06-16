@@ -1,0 +1,10 @@
+Summary:
+Implemented model evaluation metrics.
+
+Changes:
+- Added Accuracy Score
+- Added Precision Score
+- Added Recall Score
+
+Testing:
+Verified results using sample datasets.
